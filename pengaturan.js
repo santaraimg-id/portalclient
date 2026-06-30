@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "Alena Bali Wedding",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo"
+    googleApiKey: "AIzaSyDoT3tXMgS92oiBP26noRt5U6ckfujfNgY"
 };
